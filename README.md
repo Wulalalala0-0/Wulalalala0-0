@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wulalalala0-0
-- 👀 I’m interested in 王者荣耀
+- 👀 I’m interested in Honor of Kings
 - 🌱 I’m currently learning Java and C++
 - 📫 How to reach me in Bilibili
 
